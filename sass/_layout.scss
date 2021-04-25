@@ -11,7 +11,7 @@
     font-size: 1.4rem;
     height: 7rem;
     background-color: var(--color-white);
-    border-bottom: var(--color-grey-light-2);
+    border-bottom: var(--border-bottom);
     
     display: flex;
     justify-content: space-between;
@@ -36,6 +36,5 @@
     flex: 1;
 
     // TODO: Remove (TESTING)
-    background-color: orangered;
     height: 80rem;
 }
