@@ -268,7 +268,7 @@
     }
 
     &:hover {
-        color: var(--color-grey-dark-1);
+        color: var(--color-primary-dark);
 
         span {
             margin-left: .6rem;
@@ -407,9 +407,8 @@
         margin-bottom: 2.5rem;
     }
 
-    &__highlight {
+    &__bold {
         font-weight: 600;
-        color: var(--color-primary);
     }
 }
 

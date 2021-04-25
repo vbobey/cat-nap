@@ -220,7 +220,7 @@ body {
     margin-left: .3rem;
     transition: margin-left .2s; }
   .btn-inline:hover {
-    color: var(--color-grey-dark-1); }
+    color: var(--color-primary-dark); }
     .btn-inline:hover span {
       margin-left: .6rem; }
 
@@ -316,9 +316,8 @@ body {
     font-size: 1.5rem;
     font-weight: 400;
     margin-bottom: 2.5rem; }
-  .cta__highlight {
-    font-weight: 600;
-    color: var(--color-primary); }
+  .cta__bold {
+    font-weight: 600; }
 
 .btn {
   font-size: 1.5rem;
